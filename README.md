@@ -1,4 +1,4 @@
-help # Microsoft Graph CLI
+help me # Microsoft Graph CLI
 
 Microsoft Graph CLI provides convenient methods to access Microsoft Graph capabilities using a simplistic command line interface experience on any operating system and any shell.
 
